@@ -28,5 +28,8 @@
     "gulp-webp-css": "^1.1.0",
     "gulp-webp-html": "^1.0.2",
     "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "lodash.template": "^4.5.0"
   }
 }
